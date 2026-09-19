@@ -17,7 +17,7 @@ export default function Home() {
       <TypographyP>
         Biodiversity Hub was created as an example webapp for T4SG&apos;s Fall 2026 applications.
       </TypographyP>
-      <TypographyP>Good luck! We can&apos;t wait to see what you create :)</TypographyP>
+      <TypographyP>This is Ethan&apos;s fork with all my changes! Thank you!</TypographyP>
     </>
   );
 }
